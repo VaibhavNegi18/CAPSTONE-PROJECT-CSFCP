@@ -122,6 +122,5 @@ It improved technical clarity and future preparation toward AI and cloud computi
 
 ---
 
-### © 2025 — Created by **Vaibhav Negi**  
-B.Tech CSE (AI & Robotics)
+
 
