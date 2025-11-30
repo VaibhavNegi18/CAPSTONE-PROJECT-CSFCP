@@ -1,6 +1,6 @@
 # 📘 Career Roadmap & Automation Assignment  
 **Course:** Computer Science Fundamentals & Career Pathways  
-**Programme:** B.Tech CSE (AI & Robotics)  
+**Programme:** B.Tech CSE (core) 
 **Assignment No.:** 05  
 **Student:** Vaibhav Negi  
 
